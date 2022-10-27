@@ -1,4 +1,4 @@
-# flutter001
+# Body Mass Index Calculator (Flutter)
 
 A new Flutter project.
 
